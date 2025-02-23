@@ -1,3 +1,3 @@
 # bookbot
 
-Bookbot will *not* be my first project, but hopefully the most feature-complete one :D
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
